@@ -1,0 +1,90 @@
+[
+{	"level": 10,
+    "puzzle" : "555",
+	"equalsTo"	: "10",
+    "isAvailable" : true,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):.,/,·,√",
+	"solution" : "√5·√5/.5=10" 
+},
+{	"level": 11,
+    "puzzle" : "555",
+	"equalsTo"	: "11",
+    "isAvailable" : true,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):/",
+	"solution" : "55/5=11" 
+},
+{	"level": 12,
+    "puzzle" : "555",
+	"equalsTo"	: "12",
+    "isAvailable" : false,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):+,.,/,⌊,⌋,√",
+	"solution" : "5/.5+⌊√5⌋=12"
+},
+{	"level": 13,
+    "puzzle" : "555",
+	"equalsTo"	: "13",
+    "isAvailable" : false,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):+,⌊,⌋,·,√",
+	"solution" : "⌊√5+5·√5⌋=13"
+},
+
+{
+	"level": 14,
+    "puzzle" : "555",
+	"equalsTo"	: "14",
+    "isAvailable" : false,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):(,),+,.,/",
+	"solution" : "5/.(5)+5=14"
+},
+
+{
+	"level": 15,
+    "puzzle" : "555",
+	"equalsTo"	: "15",
+    "isAvailable" : false,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):+",
+	"solution" : "5+5+5=15"
+},
+{
+	"level": 16,
+    "puzzle" : "555",
+	"equalsTo"	: "16",
+    "isAvailable" : false,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):!,+,/",
+	"solution" : "5!!+5/5=16"
+},
+{
+	"level": 17,
+    "puzzle" : "555",
+	"equalsTo"	: "17",
+    "isAvailable" : false,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):!,+,/,⌊,⌋,√",
+	"solution" : "5!!+⌊5/√5⌋=17"
+},
+{
+	"level": 18,
+    "puzzle" : "555",
+	"equalsTo"	: "18",
+    "isAvailable" : false,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):!,+,-,⌊,⌋,√",
+	"solution" : "5!!+5-⌊√5⌋=18"
+},
+{
+	"level": 19,
+    "puzzle" : "555",
+	"equalsTo"	: "19",
+    "isAvailable" : false,
+    "isCompleted" : false,
+	"hint" : "use the sign(s):!,+,-,⌊,⌋,√",
+	"solution" : "5!!+5-⌊√√5⌋=19"
+}
+]

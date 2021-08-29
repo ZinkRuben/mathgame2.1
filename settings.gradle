@@ -1,0 +1,2 @@
+rootProject.name = "mathgame2.1"
+include ':app'
